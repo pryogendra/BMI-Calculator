@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="Wt">Weight (in kg) :</string>
+    <string name="Ht">Height (in cm) :</string>
+    <string name="txtbtn">Calculate BMI</string>
+    <string name="title">BMI Calculator</string>
+
+    <string name="overWt">You are Overweight.</string>
+    <string name="underWt">You are Underweight.</string>
+    <string name="helthyWt">You are Healthy.</string>
+</resources>
